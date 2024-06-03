@@ -1352,5 +1352,5 @@ getter: `, this.getter);
 const { effect, reactive, computed, toRef, toRefs, toValue, ref, EffectScope, isRef, isShallow, isProxy, isReactive } = VueReactivity;
 
 export {
-  effect, reactive, computed, toRef, toRefs, toValue, ref, EffectScope
+  effect, reactive, computed, toRef, toRefs, toValue, ref, EffectScope, isRef, isShallow, isProxy, isReactive
 };
