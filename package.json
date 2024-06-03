@@ -1,0 +1,23 @@
+{
+  "name": "@yuuang/vue-reactivity-miniprogram",
+  "version": "3.4.27",
+  "description": "vue-reactivity for miniprogram",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangyuang/vue-reactivity-miniprogram.git"
+  },
+  "author": "zhangyuang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangyuang/vue-reactivity-miniprogram/issues"
+  },
+  "homepage": "https://github.com/zhangyuang/vue-reactivity-miniprogram#readme"
+}
