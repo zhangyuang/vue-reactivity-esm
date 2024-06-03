@@ -1,6 +1,6 @@
 {
   "name": "@yuuang/vue-reactivity-miniprogram",
-  "version": "3.4.27",
+  "version": "3.4.28",
   "description": "vue-reactivity for miniprogram",
   "main": "index.js",
   "types": "index.d.ts",
