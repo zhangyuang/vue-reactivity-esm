@@ -41,7 +41,7 @@ export type Reactive<T> = UnwrapNestedRefs<T> & (T extends readonly any[] ? Reac
  * @param target - The source object.
  * @see {@link https://vuejs.org/api/reactivity-core.html#reactive}
  */
-export declare function reactive<T extends object>(target: T): Reactive<T>;
+export declare function reactive<T extends object>(target: T): T;
 declare const ShallowReactiveMarker: unique symbol;
 export type ShallowReactive<T> = T & {
     [ShallowReactiveMarker]?: true;
